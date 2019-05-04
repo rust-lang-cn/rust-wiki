@@ -1,0 +1,5 @@
+[book]
+authors = ["Xu Chunyun"]
+multilingual = false
+src = "src"
+title = "Rust 规范文档"
