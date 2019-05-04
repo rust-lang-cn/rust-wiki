@@ -25,7 +25,7 @@ $ mdbook serve
 
 ## 授权协议
 
-《通过例子学 Rust》（中文版与英文版 Rust by Example 均） 使用以下两种协议的任一种进行授权：
+《Rust 规范文档》使用以下两种协议的任一种进行授权：
 
 * Apache 2.0 授权协议，（[LICENSE-APACHE](LICENSE-APACHE) 或 http://www.apache.org/licenses/LICENSE-2.0）
 * MIT 授权协议 ([LICENSE-MIT](LICENSE-MIT) 或 http://opensource.org/licenses/MIT)
@@ -37,8 +37,7 @@ $ mdbook serve
 
 
 [install Rust]: https://www.rust-lang.org/tools/install
-[rust-by-example]: https://github.com/rust-lang/rust-by-example
-[travis-image]: https://travis-ci.org/rust-lang-cn/rust-by-example-cn.svg?branch=master
+[travis-image]: https://travis-ci.org/rust-lang-cn/rust-wiki.svg?branch=master
 [travis-link]: https://travis-ci.org/rust-lang-cn/rust-wiki
 [website-cn]: https://rustwiki.org/zh-CN/rust-wiki/
 [how-to-contribute]: CONTRIBUTING.md
