@@ -11,7 +11,7 @@ Rust 规范文档包涵了一系列 Rust 有关的资料，包括翻译的指引
 若想在本地阅读，请先[安装 Rust][install Rust]，然后进行下面操作：
 
 ```bash
-$ git clone https://github.com/rust-lang-cn/rust-wiki
+$ git clone https://github.com/rust-lang-cn/rust-wiki.git
 $ cd rust-wiki
 $ cargo install mdbook --version 0.2 --force
 $ mdbook build
