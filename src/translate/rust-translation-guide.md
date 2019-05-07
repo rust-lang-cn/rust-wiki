@@ -1,6 +1,6 @@
 # Rust 文档翻译指引
 
-> <b>Rust 文档翻译指引</b>由 [Rust 语言中文本地化组织](https://github.com/rust-lang-cn)提供，本文档将给出 Rust 文档或书籍翻译的指南，参与翻译 Rust 有关文章或书籍的学生、开发者或编者都应该遵循本翻译指引进行翻译。
+> <b>Rust 文档翻译指引</b>由 [Rust 中文翻译项目组](https://github.com/rust-lang-cn)提供，本文档将给出 Rust 文档或书籍翻译的指南，参与翻译 Rust 有关文章或书籍的学生、开发者或编者都应该遵循本翻译指引进行翻译。
 >
 > 本文来自 [Rust 文档翻译指引](https://github.com/rust-lang-cn/rust-translation-guide)仓库，本文收录在此处，只是方便 Rust 学习者统一查阅，若是发现有任何错误或需要完善地方，请在原仓库指出或修改错误。
 

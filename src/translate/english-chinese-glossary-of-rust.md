@@ -1,6 +1,6 @@
 # Rust 语言术语中英文对照表
 
-> <b>Rust 语言术语中英文对照表</b>由 [Rust 语言中文本地化组织](https://github.com/rust-lang-cn)提供，致力于实现 Rust 的文档和书籍中文的术语都保持一致性，本表内容将持续更新维护。所有的对 Rust 翻译的学生、开发者或编者都应该参照本表的有关术语。
+> <b>Rust 语言术语中英文对照表</b>由 [Rust 中文翻译项目组](https://github.com/rust-lang-cn)提供，致力于实现 Rust 的文档和书籍中文的术语都保持一致性，本表内容将持续更新维护。所有的对 Rust 翻译的学生、开发者或编者都应该参照本表的有关术语。
 >
 > 本文来自 [Rust 语言术语中英文对照表](https://github.com/rust-lang-cn/english-chinese-glossary-of-rust)仓库，本文收录在此处，只是方便 Rust 学习者统一查阅，若是发现有任何错误或需要完善地方，请在原仓库指出或修改错误。
 
