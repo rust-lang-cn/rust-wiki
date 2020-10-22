@@ -12,3 +12,4 @@
   - [Rust 相关的中文网站](./rust-resources/chinese-websites-of-rust.md)
 - [Rust 相关](./rust-related/README.md)
   - [TOML 语言](./rust-related/toml.md)
+  - [选择一个开源许可证](./rust-related/choose-a-license.md)
