@@ -30,3 +30,7 @@ Rustacean（复试形式为 Rustaceans）中文意思为 Rust 开发者，Rust �
 > 参见：
 >
 > [Rustacean 的维基字典解释](https://en.wiktionary.org/wiki/Rustacean)
+
+### you 的翻译
+
+you 在中文书籍中，一般翻译成“你”，技术书籍一样，不应该翻译成敬语“您”，除非特定语境表示尊称翻译成“您”。另外根据上下文，有时 you 也可以不翻译，这是中英之间的表达翻译的差异地方。
