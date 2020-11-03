@@ -12,4 +12,4 @@
 
 希望网站能够提供给中文用户高效便捷地选择到合适的开源许可协议。
 
-若是发现网站有哪些错误或不足，随时欢迎指出并在[本网站项目仓库](https://github.com/choosealicense-cn.github.io)中发起 Issue 或 PR，感激不尽。
+若是发现网站有哪些错误或不足，随时欢迎指出并在[本网站项目仓库](https://github.com/choosealicense-cn/choosealicense-cn.github.io)中发起 Issue 或 PR，感激不尽。
