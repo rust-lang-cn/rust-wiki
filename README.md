@@ -2,7 +2,7 @@
 
 [![Build Status][travis-image]][travis-link]
 
-> 💡 Rust Wiki 文档内容已经全部放到 [rustwiki.org](https://github.com/rust-lang-cn/rustwiki.org) 仓库中的 `content/wiki` 目录中，后续将在后者仓库进行更新，故本仓库不再单独更新。
+> 💡 Rust Wiki 文档内容已经全部放到 [rustwiki.org](https://github.com/rust-lang-cn/rustwiki.org/tree/master/content/wiki) 仓库中的 `content/wiki` 目录中，后续将在后者仓库进行更新，故本仓库不再单独更新。
 
 Rust 规范文档包涵了一系列 Rust 有关的资料，包括翻译的指引、Rust 术语表以及 Rust 配套的其他资料（比如 TOML 语言介绍）。
 
